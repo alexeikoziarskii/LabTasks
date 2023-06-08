@@ -1,0 +1,7 @@
+D:\103\Лабораторные ДА\LabTask22\LabTask22\bin\Debug\LabTask22.exe.config
+D:\103\Лабораторные ДА\LabTask22\LabTask22\bin\Debug\LabTask22.exe
+D:\103\Лабораторные ДА\LabTask22\LabTask22\bin\Debug\LabTask22.pdb
+D:\103\Лабораторные ДА\LabTask22\LabTask22\obj\Debug\LabTask22.csproj.AssemblyReference.cache
+D:\103\Лабораторные ДА\LabTask22\LabTask22\obj\Debug\LabTask22.csproj.CoreCompileInputs.cache
+D:\103\Лабораторные ДА\LabTask22\LabTask22\obj\Debug\LabTask22.exe
+D:\103\Лабораторные ДА\LabTask22\LabTask22\obj\Debug\LabTask22.pdb

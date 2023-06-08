@@ -1,0 +1,7 @@
+D:\103\Лабораторные ДА\LabTask17\LabTask17\bin\Debug\LabTask17.exe.config
+D:\103\Лабораторные ДА\LabTask17\LabTask17\bin\Debug\LabTask17.exe
+D:\103\Лабораторные ДА\LabTask17\LabTask17\bin\Debug\LabTask17.pdb
+D:\103\Лабораторные ДА\LabTask17\LabTask17\obj\Debug\LabTask17.csproj.AssemblyReference.cache
+D:\103\Лабораторные ДА\LabTask17\LabTask17\obj\Debug\LabTask17.csproj.CoreCompileInputs.cache
+D:\103\Лабораторные ДА\LabTask17\LabTask17\obj\Debug\LabTask17.exe
+D:\103\Лабораторные ДА\LabTask17\LabTask17\obj\Debug\LabTask17.pdb

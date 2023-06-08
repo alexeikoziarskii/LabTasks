@@ -1,0 +1,7 @@
+D:\103\Лабораторные ДА\LabTask21\LabTask21\bin\Debug\LabTask21.exe.config
+D:\103\Лабораторные ДА\LabTask21\LabTask21\bin\Debug\LabTask21.exe
+D:\103\Лабораторные ДА\LabTask21\LabTask21\bin\Debug\LabTask21.pdb
+D:\103\Лабораторные ДА\LabTask21\LabTask21\obj\Debug\LabTask21.csproj.AssemblyReference.cache
+D:\103\Лабораторные ДА\LabTask21\LabTask21\obj\Debug\LabTask21.csproj.CoreCompileInputs.cache
+D:\103\Лабораторные ДА\LabTask21\LabTask21\obj\Debug\LabTask21.exe
+D:\103\Лабораторные ДА\LabTask21\LabTask21\obj\Debug\LabTask21.pdb

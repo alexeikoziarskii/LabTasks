@@ -1,0 +1,7 @@
+D:\103\Лабораторные ДА\LabTask19\LabTask19\bin\Debug\LabTask19.exe.config
+D:\103\Лабораторные ДА\LabTask19\LabTask19\bin\Debug\LabTask19.exe
+D:\103\Лабораторные ДА\LabTask19\LabTask19\bin\Debug\LabTask19.pdb
+D:\103\Лабораторные ДА\LabTask19\LabTask19\obj\Debug\LabTask19.csproj.AssemblyReference.cache
+D:\103\Лабораторные ДА\LabTask19\LabTask19\obj\Debug\LabTask19.csproj.CoreCompileInputs.cache
+D:\103\Лабораторные ДА\LabTask19\LabTask19\obj\Debug\LabTask19.exe
+D:\103\Лабораторные ДА\LabTask19\LabTask19\obj\Debug\LabTask19.pdb
